@@ -1,3 +1,12 @@
+# Usage
+Install dependencys
+> npm install
+
+commit your changes:
+
+> git commit -m "update readme.md" # FAIL
+> git commit -m "docs: update readme.md" # SUCCESS
+
 # Husky 
 
 Husky enhances your commits and more 🐶 woof!
