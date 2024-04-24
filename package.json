@@ -1,0 +1,24 @@
+{
+  "name": "husky-commitlint",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"OK: no test specified\" && exit 0",
+    "prepare": "husky"
+  },
+  "keywords": [],
+  "author": "Ariel Evangelista",
+  "license": "ISC",
+  "description": "Integrating commit lint @commitlint/config-conventional",
+  "devDependencies": {
+    "@commitlint/cli": "^19.3.0",
+    "@commitlint/config-conventional": "^19.2.2",
+    "husky": "^9.0.11"
+  },
+  "peerDependencies": {
+    "@commitlint/lint": "^19.2.2"
+  },
+  "dependencies": {
+    "commitlint": "^19.3.0"
+  }
+}
