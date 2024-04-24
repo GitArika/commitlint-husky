@@ -5,6 +5,7 @@ Install dependencys
 commit your changes:
 
 > git commit -m "update readme.md" # FAIL
+
 > git commit -m "docs: update readme.md" # SUCCESS
 
 # Husky 
